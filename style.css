@@ -72,4 +72,50 @@ main{
       font-weight: 600;
       color: white;
       margin-left: 10px;
+      background-color: #2e90fa;
+}
+.labelone{
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 600;
+      color: white;
+      margin-left: 10px;
+      background-color: purple;
+}
+.labeltwo{
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 600;
+      color: white;
+      margin-left: 10px;
+      background-color: skyblue;
+}
+.labelthree{
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 600;
+      color: white;
+      margin-left: 10px;
+      background-color: orangered;
+}
+.labelfour{
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 600;
+      color: white;
+      margin-left: 10px;
+      background-color: violet;
+}
+.labelfive{
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 600;
+      color: white;
+      margin-left: 10px;
+      background-color: greenyellow;
 }
