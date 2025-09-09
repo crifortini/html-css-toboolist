@@ -4,6 +4,10 @@ body{
       background: #f7f9fa;
 }
 
+h1{
+    text-align: center;
+}
+
 h3 {
       margin-top: 30px;
       font-size: 18px;
@@ -62,6 +66,11 @@ main{
 
 .check {
       color: #2ec4b6;
+      font-weight: bold;
+}
+
+.checkuno {
+      color: red;
       font-weight: bold;
 }
 
