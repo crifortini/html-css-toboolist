@@ -4,6 +4,16 @@ body{
       background: #f7f9fa;
 }
 
+h3 {
+      margin-top: 30px;
+      font-size: 18px;
+}
+
+ul {
+      list-style: none;
+      padding-left: 0;
+}
+
 header{
     margin: 0 auto;
     background-color: white;
@@ -27,4 +37,4 @@ main{
 
 .buttons {
       margin-bottom: 20px;
-    }
+}
