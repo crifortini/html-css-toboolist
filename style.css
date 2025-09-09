@@ -83,6 +83,7 @@ main{
       margin-left: 10px;
       background-color: #2e90fa;
 }
+
 .labelone{
       padding: 4px 10px;
       border-radius: 12px;
@@ -92,6 +93,7 @@ main{
       margin-left: 10px;
       background-color: purple;
 }
+
 .labeltwo{
       padding: 4px 10px;
       border-radius: 12px;
@@ -101,6 +103,7 @@ main{
       margin-left: 10px;
       background-color: skyblue;
 }
+
 .labelthree{
       padding: 4px 10px;
       border-radius: 12px;
@@ -110,6 +113,7 @@ main{
       margin-left: 10px;
       background-color: orangered;
 }
+
 .labelfour{
       padding: 4px 10px;
       border-radius: 12px;
@@ -119,6 +123,7 @@ main{
       margin-left: 10px;
       background-color: violet;
 }
+
 .labelfive{
       padding: 4px 10px;
       border-radius: 12px;
