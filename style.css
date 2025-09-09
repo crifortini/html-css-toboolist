@@ -14,6 +14,13 @@ ul {
       padding-left: 0;
 }
 
+li {
+      margin: 10px 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+}
+
 header{
     margin: 0 auto;
     background-color: white;
@@ -27,6 +34,11 @@ main{
     margin-left: 1.5rem;
 }
 
+.buttons .add-task {
+      background-color: #2e90fa;
+      color: white;
+}
+
 .container {
       background: white;
       max-width: 700px;
@@ -37,4 +49,27 @@ main{
 
 .buttons {
       margin-bottom: 20px;
+}
+
+.task {
+      display: flex;
+      align-items: center;
+}
+
+.task-left span {
+      margin-left: 10px;
+}
+
+.check {
+      color: #2ec4b6;
+      font-weight: bold;
+}
+
+.label {
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 600;
+      color: white;
+      margin-left: 10px;
 }
